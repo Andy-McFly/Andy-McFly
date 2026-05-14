@@ -1,9 +1,3 @@
-# Hola, soy Andrés
-
-**Desarrollador de Aplicaciones Multiplataforma** · Sevilla, España
-
----
-
 ## Stack tecnológico
 
 **Lenguajes**
@@ -41,7 +35,6 @@ Plataforma de adopción de perros construida en **4 módulos independientes** qu
 | [Web](https://github.com/Andy-McFly/TFG_BuddyFinderWeb) | HTML · CSS · JS | Panel para refugios: gestión de perros, historial y solicitudes recibidas |
 | [PC Admin](https://github.com/Andy-McFly/TFG_BuddyFinderPC) | Python · Tkinter | Herramienta de administrador: gestión de refugios y transferencias |
 
----
 
 ### [Fish Rampage](https://github.com/Andy-McFly/Juego_FishRampage)
 Juego arcade 2D en Java con **programación multihilo**. Game loop, renderizado y enemigos en hilos separados con sincronización para evitar race conditions.
@@ -73,7 +66,3 @@ Juego de cartas para hasta 4 jugadores en Java con patrón MVC. Mazo completo de
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrés_Martínez_Romero-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/andr%C3%A9s-mart%C3%ADnez-romero-a8a6a0144)
 [![Email](https://img.shields.io/badge/Email-andres.mrom@gmail.com-D14836?style=flat&logo=gmail)](mailto:andres.mrom@gmail.com)
-
----
-
-*Abierto a oportunidades junior · Sevilla y remoto*
