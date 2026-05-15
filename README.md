@@ -1,28 +1,3 @@
-## Stack tecnológico
-
-**Lenguajes**
-`Java` `Kotlin` `Python` `C#` `Visual Basic .NET` `PHP` `JavaScript`
-
-**Mobile & Desktop**
-`Android Studio` `Android SDK` `Java Swing / AWT` `Tkinter`
-
-**Backend & Frameworks**
-`Spring Boot` `Spring Framework` `Hibernate` `Maven`
-
-**Bases de datos**
-`MySQL` `SQLite` `MongoDB` `JasperReports` `MySQL Workbench`
-
-**Web**
-`HTML` `CSS` `JavaScript` `PHP`
-
-**APIs & Servicios**
-`REST APIs` `OkHttp` `Retrofit` `Apache Commons Net (FTP)` `Google Maps SDK`
-
-**Herramientas**
-`Git` `GitHub` `Eclipse` `VS Code` `Linux` `Virtualización`
-
----
-
 ## Proyectos destacados
 
 ### BuddyFinder - Proyecto Final de Ciclo (TFG)
