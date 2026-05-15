@@ -39,5 +39,5 @@ Juego de cartas para hasta 4 jugadores en Java con patrón MVC. Mazo completo de
 
 ## Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrés_Martínez_Romero-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/andr%C3%A9s-mart%C3%ADnez-romero-a8a6a0144)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrés_Martínez_Romero-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/andres-mrom/)
 [![Email](https://img.shields.io/badge/Email-andres.mrom@gmail.com-D14836?style=flat&logo=gmail)](mailto:andres.mrom@gmail.com)
